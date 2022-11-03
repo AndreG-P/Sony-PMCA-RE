@@ -1,6 +1,7 @@
 # Reverse Engineering Sony Digital Cameras
 This tool interfaces with Sony digital cameras through USB. It allows to tweak settings, dump firmware, and in some cases install custom Android apps.
 
+
 ## Installation
 There are two binaries:
 
